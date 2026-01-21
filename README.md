@@ -16,3 +16,4 @@ Nesta primeira versão, foram implementados os seguintes modelos:
 ## Estrutura do Repositório
 - `Modelagem_Propensao_AndressaSouza.ipynb`: Notebook principal com todo o código.
 - `graficos/`: Pasta contendo os gráficos exportados.
+- `data/`: Pasta contendo a base de dados utilizada.
